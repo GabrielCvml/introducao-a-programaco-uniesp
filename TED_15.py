@@ -110,4 +110,4 @@ while escolha != 0:
             print("Esse funcionário não existe ou não foi cadastrado")
 
     if escolha == 0:
-        print("Obrigado pela interação.")
+        print("Obrigado pela interação .")
